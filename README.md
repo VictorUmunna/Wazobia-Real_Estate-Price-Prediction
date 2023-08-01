@@ -1,1 +1,1 @@
-# Wazobia-Real_Estate-Price-Prediction
+# Wazobia-Real-Estate-Price-Prediction
